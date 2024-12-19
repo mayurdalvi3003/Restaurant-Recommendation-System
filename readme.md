@@ -59,18 +59,27 @@ Copy code
 pip install -r requirements.txt
 
 ## Output
+
 Input the name of a restaurant to get similar recommendations.
+
 Examples
+
 Input: 'Pai Vihar'
+
 Output:
+
 List of top 7 restaurants similar to 'Pai Vihar' with their cuisines, cost, and ratings.
+
 Input: 'Jalsa'
+
 Output:
+
 List of top 10 restaurants similar to 'Jalsa' with their cuisines, cost, and ratings.
-Future Enhancements
-Add geographical filtering to provide more localized recommendations.
-Integrate the system with a web or mobile interface.
-Enhance recommendation accuracy by using deep learning for sentiment analysis.
+
+## Future Enhancements
+- Add geographical filtering to provide more localized recommendations.
+- Integrate the system with a web or mobile interface.
+- Enhance recommendation accuracy by using deep learning for sentiment analysis.
 
 ## Acknowledgments
 Thanks to all contributors and open-source libraries that made this project possible.
